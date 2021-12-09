@@ -83,7 +83,7 @@ class _Login_pageState extends State<Login_page> {
                 /*  image: DecorationImage(
                   image: NetworkImage(
                       'https://pixabay.com/get/g2c3bc9a4903d068c7732155a727ae3385dc56c0f5bfcd31f2d06ce39a09e8bfcde95b0b1dfc21606a9ea61fa62910f6fdff796f1e5fc58ef5e38a034c6a7a7b74b9892365937152c29dff591d42bb81e_1920.png',
-                      scale: 1),
+                      scale: 1),git s
                   fit: BoxFit.cover,
                 ),*/
                 gradient:
