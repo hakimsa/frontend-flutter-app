@@ -35,7 +35,7 @@ class _HomepageState extends State<Homepage> {
   }
 
   conatiner1(BuildContext context) {
-    return Row(children: [
+    return Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
       AnimatedContainer(
           child: SingleChildScrollView(
             child: Column(
