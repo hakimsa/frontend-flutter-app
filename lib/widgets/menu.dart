@@ -6,6 +6,7 @@ class Menu extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Drawer(
+      backgroundColor: Color.fromARGB(68, 15, 15, 15),
       elevation: 20,
       child: DrawerHeader(
           child: Padding(
